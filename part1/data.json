@@ -1,0 +1,38 @@
+[
+  {
+    "Value": "Hello World",
+    "Length": 11,
+    "ShiftKey": 3,
+    "ShiftDirection": 0
+  },
+  {
+    "Value": "C# Programming",
+    "Length": 14,
+    "ShiftKey": 1,
+    "ShiftDirection": 1
+  },
+  {
+    "Value": "Data Serialization",
+    "Length": 18,
+    "ShiftKey": 5,
+    "ShiftDirection": 0
+  },
+  {
+    "Value": "Object Array",
+    "Length": 12,
+    "ShiftKey": 2,
+    "ShiftDirection": 1
+  },
+  {
+    "Value": "Variant 10",
+    "Length": 10,
+    "ShiftKey": 4,
+    "ShiftDirection": 0
+  },
+  {
+    "Value": "Algorithm Test",
+    "Length": 14,
+    "ShiftKey": 2,
+    "ShiftDirection": 0
+  }
+]

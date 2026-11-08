@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomString>
+    <Value>Hello World</Value>
+    <ShiftKey>3</ShiftKey>
+    <ShiftDirection>Forward</ShiftDirection>
+  </CustomString>
+  <CustomString>
+    <Value>C# Programming</Value>
+    <ShiftKey>1</ShiftKey>
+    <ShiftDirection>Backward</ShiftDirection>
+  </CustomString>
+  <CustomString>
+    <Value>Data Serialization</Value>
+    <ShiftKey>5</ShiftKey>
+    <ShiftDirection>Forward</ShiftDirection>
+  </CustomString>
+  <CustomString>
+    <Value>Object Array</Value>
+    <ShiftKey>2</ShiftKey>
+    <ShiftDirection>Backward</ShiftDirection>
+  </CustomString>
+  <CustomString>
+    <Value>Variant 10</Value>
+    <ShiftKey>4</ShiftKey>
+    <ShiftDirection>Forward</ShiftDirection>
+  </CustomString>
+  <CustomString>
+    <Value>Algorithm Test</Value>
+    <ShiftKey>2</ShiftKey>
+    <ShiftDirection>Forward</ShiftDirection>
+  </CustomString>
+</ArrayOfCustomString>
